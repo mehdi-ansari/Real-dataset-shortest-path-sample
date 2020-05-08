@@ -1,4 +1,4 @@
-# Real dataset shortest path sample
+# Real shortest path dataset sample
 Dijkstra's method to find shortest paths on real datasets
 
 Dijkstra's algorithm was coded to find the longest shortest paths from candidate sources in the real datasets provided on https://www.cs.utah.edu/~lifeifei/SpatialDataset.htm
